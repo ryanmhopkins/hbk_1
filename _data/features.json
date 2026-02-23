@@ -1,7 +1,7 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "Call us or submit a contact request and we’ll reach out to you to learn more about your bookkeeping needs.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Asses & Estimate",
+    "description": "We’ll review all current accounts in depth to determine a timeline and an upfront one-time or monthly estimate.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "We Work Together",
+    "description": "You no longer stress about being prepared for tax season and you know exactly where your money is going.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
